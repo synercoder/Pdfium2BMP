@@ -6,7 +6,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     /// <summary>
     /// Provides functionality to render a PDF document.

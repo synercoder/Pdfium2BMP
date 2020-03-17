@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfiumViewer", "src\PdfiumViewer\PdfiumViewer.csproj", "{438914B6-5D1C-482C-B942-5C0E057EEF6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pdfium2BMP", "src\PdfiumViewer\Pdfium2BMP.csproj", "{438914B6-5D1C-482C-B942-5C0E057EEF6F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{87B98F36-B1B9-400F-844A-7E80BD607915}"
 	ProjectSection(SolutionItems) = preProject

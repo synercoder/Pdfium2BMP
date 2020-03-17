@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal class PdfFile : IDisposable
     {

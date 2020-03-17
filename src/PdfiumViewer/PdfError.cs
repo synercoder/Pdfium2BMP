@@ -2,7 +2,7 @@ using PdfiumViewer.Internal;
 
 #pragma warning disable 1591
 
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     public enum PdfError
     {

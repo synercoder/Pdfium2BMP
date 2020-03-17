@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal static class StreamManager
     {

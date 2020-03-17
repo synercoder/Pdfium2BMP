@@ -1,4 +1,4 @@
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal static class Justifications
     {

@@ -3,7 +3,7 @@ using System.Runtime.Serialization;
 
 #pragma warning disable 1591
 
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     public class PdfException : Exception
     {

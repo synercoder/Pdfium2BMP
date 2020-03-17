@@ -1,6 +1,6 @@
 using System;
 
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal class PdfLibrary : IDisposable
     {

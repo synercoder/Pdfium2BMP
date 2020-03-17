@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal static partial class NativeMethods
     {

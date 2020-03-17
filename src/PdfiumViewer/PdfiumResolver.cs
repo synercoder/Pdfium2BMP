@@ -1,4 +1,4 @@
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     public static class PdfiumResolver
     {

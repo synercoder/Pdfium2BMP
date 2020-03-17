@@ -1,4 +1,4 @@
-﻿namespace PdfiumViewer
+﻿namespace Pdfium2BMP
 {
     /// <summary>
     /// Specifies the rotation of pages shown in the PDF renderer.

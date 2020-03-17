@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     /// <summary>
     /// Represents a PDF document.

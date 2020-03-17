@@ -5,7 +5,7 @@ using System.Text;
 
 #pragma warning disable 1591
 
-namespace PdfiumViewer.Internal
+namespace Pdfium2BMP.Internal
 {
     internal partial class NativeMethods
     {

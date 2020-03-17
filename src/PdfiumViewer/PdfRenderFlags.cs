@@ -1,7 +1,7 @@
 using PdfiumViewer.Internal;
 using System;
 
-namespace PdfiumViewer
+namespace Pdfium2BMP
 {
     /// <summary>
     /// Flags that influence the page rendering process.
