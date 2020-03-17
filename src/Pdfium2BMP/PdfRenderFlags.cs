@@ -1,4 +1,4 @@
-using PdfiumViewer.Internal;
+using Pdfium2BMP.Internal;
 using System;
 
 namespace Pdfium2BMP

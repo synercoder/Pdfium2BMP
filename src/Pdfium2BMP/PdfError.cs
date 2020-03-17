@@ -1,4 +1,4 @@
-using PdfiumViewer.Internal;
+using Pdfium2BMP.Internal;
 
 #pragma warning disable 1591
 

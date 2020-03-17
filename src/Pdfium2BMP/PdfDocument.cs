@@ -1,4 +1,4 @@
-using PdfiumViewer.Internal;
+using Pdfium2BMP.Internal;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
