@@ -25,7 +25,6 @@ the [PdfiumBuild](https://github.com/pvginkel/PdfiumBuild) project page
 for the location of the output of the build server. The PdfiumViewer specific
 libraries are located in the `PdfiumViewer-...` target directories.
 
-
 ## License
 
 PdfiumViewer is licensed under the Apache 2.0 license. See the license details for how PDFium is licensed.
