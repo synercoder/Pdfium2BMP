@@ -24,6 +24,7 @@
     <Description>A slimmed down version of PdfiumViewer by Pieter van Ginkel. This version can mainly be used to render pdf's to bitmap data.</Description>
     <PackageReleaseNotes>Initial Pdfium2BMP release</PackageReleaseNotes>
     <Copyright>Copyright © $(Authors)</Copyright>
+    <PackageProjectUrl>https://github.com/synercoder/Pdfium2BMP</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
