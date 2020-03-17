@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace PdfiumViewer
 {
-    public class PdfiumResolver
+    public static class PdfiumResolver
     {
-        public static event PdfiumResolveEventHandler Resolve;
+        public static event PdfiumResolveEventHandler? Resolve;
 
-        private static void OnResolve(PdfiumResolveEventArgs e)
-        {
-            Resolve?.Invoke(null, e);
-        }
-
-        internal static string GetPdfiumFileName()
+        internal static string? GetPdfiumFileName()
         {
             var e = new PdfiumResolveEventArgs();
-            OnResolve(e);
+            _onResolve(e);
             return e.PdfiumFileName;
+        }
+
+        private static void _onResolve(PdfiumResolveEventArgs e)
+        {
+            Resolve?.Invoke(null, e);
         }
     }
 }

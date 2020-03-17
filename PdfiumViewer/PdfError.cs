@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using PdfiumViewer.Internal;
 
 #pragma warning disable 1591
 
