@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageVersion>1.0.0-alpha01</PackageVersion>
+    <PackageVersion>1.0.0-alpha02</PackageVersion>
     <VersionPrefix>0.0.1</VersionPrefix>
     <VersionPrefix Condition="'$(packageversion)' != ''">$(PackageVersion)</VersionPrefix>
     <VersionSuffix></VersionSuffix>
@@ -22,7 +22,7 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageTags>PDF Pdfium PdfiumViewer PDF2bmp</PackageTags>
     <Description>A slimmed down version of PdfiumViewer by Pieter van Ginkel. This version can mainly be used to render pdf's to bitmap data.</Description>
-    <PackageReleaseNotes>Initial Pdfium2BMP release</PackageReleaseNotes>
+    <PackageReleaseNotes>Changed DllImports and PdfiumResolver</PackageReleaseNotes>
     <Copyright>Copyright © $(Authors)</Copyright>
     <PackageProjectUrl>https://github.com/synercoder/Pdfium2BMP</PackageProjectUrl>
   </PropertyGroup>
